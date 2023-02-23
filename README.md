@@ -1,0 +1,4 @@
+# Ajs-Symbols-Generator.
+
+
+
